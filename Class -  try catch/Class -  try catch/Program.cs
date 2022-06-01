@@ -99,7 +99,7 @@ namespace Class____try_catch
 
             //Verilmiş string dəyərin içərisində 2 söz olmasını və hər bir sözün böyük hərflə başlamasını yoxlayan metod
 
-            Console.WriteLine(Check("Rafet,Nurlan,Eli"));
+            Console.WriteLine(Check("rafet,Nurlan"));
             #endregion
 
 
@@ -151,33 +151,24 @@ namespace Class____try_catch
         static bool Check(string text)
         {
            string[] newArr= text.Split(',');
-            int count=0;
-            if (newArr.Length == 2)
+            bool check = false;
+
+            for (int i = 0; i < newArr.Length; i++)
             {
-                for (int i = 0; i < newArr.Length; i++)
+                if (newArr.Length == 2 && Char.IsUpper(newArr[i][0]))
                 {
-                    for (int a = 0; a < newArr[i].Length; a++)
-                    {
-                        if (Char.IsUpper(newArr[i][a]))
-                        {
-                            count++;
-                            break;
-                        }
-                    }
-                }
-                if (count==2)
-                {
-                    return true;
+                    check = true;
                 }
                 else
                 {
-                    return false;
+                    check = false;
                 }
             }
-            else
-            {
-                return false;
-            }
+            return check;
+
+
+
+
         }
 
         
