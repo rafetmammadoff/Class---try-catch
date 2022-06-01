@@ -1,0 +1,14 @@
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\bin\Debug\netcoreapp3.1\Class -  try catch.exe
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\bin\Debug\netcoreapp3.1\Class -  try catch.deps.json
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\bin\Debug\netcoreapp3.1\Class -  try catch.runtimeconfig.json
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\bin\Debug\netcoreapp3.1\Class -  try catch.runtimeconfig.dev.json
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\bin\Debug\netcoreapp3.1\Class -  try catch.dll
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\bin\Debug\netcoreapp3.1\Class -  try catch.pdb
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\obj\Debug\netcoreapp3.1\Class -  try catch.csproj.AssemblyReference.cache
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\obj\Debug\netcoreapp3.1\Class -  try catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\obj\Debug\netcoreapp3.1\Class -  try catch.AssemblyInfoInputs.cache
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\obj\Debug\netcoreapp3.1\Class -  try catch.AssemblyInfo.cs
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\obj\Debug\netcoreapp3.1\Class -  try catch.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\obj\Debug\netcoreapp3.1\Class -  try catch.dll
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\obj\Debug\netcoreapp3.1\Class -  try catch.pdb
+C:\Users\profe\Desktop\Class---try-catch\Class -  try catch\Class -  try catch\obj\Debug\netcoreapp3.1\Class -  try catch.genruntimeconfig.cache
